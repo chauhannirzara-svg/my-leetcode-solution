@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0292-nim-game) |
 | [3024-type-of-triangle](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/3024-type-of-triangle) |
 ## Binary Search
 |  |
@@ -32,4 +33,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/3024-type-of-triangle) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
