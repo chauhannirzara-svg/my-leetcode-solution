@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3024-type-of-triangle](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/3024-type-of-triangle) |
 ## Hash Table
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/2413-smallest-even-multiple) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
