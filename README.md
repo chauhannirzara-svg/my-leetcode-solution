@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/1480-running-sum-of-1d-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3024-type-of-triangle](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/3024-type-of-triangle) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2413-smallest-even-multiple](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/2413-smallest-even-multiple) |
 | [3024-type-of-triangle](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/3024-type-of-triangle) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
 |  |
 | ------- |
