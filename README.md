@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0283-move-zeroes) |
+| [0844-backspace-string-compare](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0844-backspace-string-compare) |
 ## Enumeration
 |  |
 | ------- |
@@ -93,12 +94,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0020-valid-parentheses) |
+| [0844-backspace-string-compare](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0844-backspace-string-compare) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0020-valid-parentheses) |
+| [0844-backspace-string-compare](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0844-backspace-string-compare) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
