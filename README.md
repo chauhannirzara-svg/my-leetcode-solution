@@ -16,11 +16,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3024-type-of-triangle](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/3024-type-of-triangle) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3668-restore-finishing-order](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/3668-restore-finishing-order) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0268-missing-number) |
+| [3668-restore-finishing-order](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/3668-restore-finishing-order) |
 ## Math
 |  |
 | ------- |
