@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0268-missing-number) |
+| [0461-hamming-distance](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0461-hamming-distance) |
 ## Sorting
 |  |
 | ------- |
