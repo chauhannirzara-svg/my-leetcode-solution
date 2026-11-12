@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3024-type-of-triangle](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/3024-type-of-triangle) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/3668-restore-finishing-order) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
