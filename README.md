@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1436-destination-city](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/1436-destination-city) |
 | [1480-running-sum-of-1d-array](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/1480-running-sum-of-1d-array) |
 | [1773-count-items-matching-a-rule](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/1773-count-items-matching-a-rule) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0268-missing-number) |
+| [1436-destination-city](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/1436-destination-city) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3668-restore-finishing-order](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/3668-restore-finishing-order) |
 ## Math
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0844-backspace-string-compare) |
 | [1108-defanging-an-ip-address](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/1108-defanging-an-ip-address) |
+| [1436-destination-city](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/1436-destination-city) |
 | [1773-count-items-matching-a-rule](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3174-clear-digits](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/3174-clear-digits) |
