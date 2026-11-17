@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0268-missing-number) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3668-restore-finishing-order](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/3668-restore-finishing-order) |
 ## Math
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0844-backspace-string-compare) |
 | [1108-defanging-an-ip-address](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/1108-defanging-an-ip-address) |
 | [1773-count-items-matching-a-rule](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/1773-count-items-matching-a-rule) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3174-clear-digits](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/3174-clear-digits) |
 ## Stack
 |  |
