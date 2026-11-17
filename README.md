@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/1480-running-sum-of-1d-array) |
+| [1773-count-items-matching-a-rule](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/1773-count-items-matching-a-rule) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3024-type-of-triangle](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/3024-type-of-triangle) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0844-backspace-string-compare) |
 | [1108-defanging-an-ip-address](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/1108-defanging-an-ip-address) |
+| [1773-count-items-matching-a-rule](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/1773-count-items-matching-a-rule) |
 | [3174-clear-digits](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/3174-clear-digits) |
 ## Stack
 |  |
