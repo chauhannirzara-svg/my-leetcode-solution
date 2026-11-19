@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/1436-destination-city) |
 | [1773-count-items-matching-a-rule](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3174-clear-digits](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/3174-clear-digits) |
 ## Stack
 |  |
