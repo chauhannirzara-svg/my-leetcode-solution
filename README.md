@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0283-move-zeroes) |
+| [0645-set-mismatch](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0645-set-mismatch) |
 | [1436-destination-city](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/1436-destination-city) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3668-restore-finishing-order](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/3668-restore-finishing-order) |
@@ -54,11 +56,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0268-missing-number) |
 | [0461-hamming-distance](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0461-hamming-distance) |
+| [0645-set-mismatch](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0645-set-mismatch) |
 | [3024-type-of-triangle](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/3024-type-of-triangle) |
 ## Polygons
 |  |
