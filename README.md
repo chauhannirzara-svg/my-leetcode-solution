@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0292-nim-game) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1952-three-divisors](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/2413-smallest-even-multiple) |
 | [3024-type-of-triangle](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/3024-type-of-triangle) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/2413-smallest-even-multiple) |
 ## Ternary Search
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/1952-three-divisors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/2778-sum-of-squares-of-special-elements) |
 ## String
 |  |
@@ -135,4 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0844-backspace-string-compare](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/0844-backspace-string-compare) |
 | [3174-clear-digits](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/3174-clear-digits) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/chauhannirzara-svg/my-leetcode-solution/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
